@@ -1,19 +1,21 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { createSwitchNavigator, createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
+import { createBottomTabNavigator } from 'react-navigation-tabs';
+import LatestScreen from './src/LatestScreen';
+import LikedScreen from './src/LikedScreen';
+import ViewsScreen from './src/ViewsScreen';
+import AddPostScreen from './src/AddPostScreen';
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-    </View>
-  );
-}
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+const switchNavigator = createBottomTabNavigator({
+    Latest : LatestScreen,
+    Top : LikedScreen,
+    Views : ViewsScreen,
+    AddPost : AddPostScreen
+  });
+
+const App = createAppContainer(switchNavigator);
+
+export default App;
