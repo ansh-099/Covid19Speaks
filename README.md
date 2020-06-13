@@ -20,7 +20,7 @@ Enter Virtual Environment:
 Run Django Server at localhost:8000:
 <br/>
 `python3 manage.py runserver`
-<br />
+<br /> <br />
 Now the Server is running, 
 <br/>
 Run React Native App:
