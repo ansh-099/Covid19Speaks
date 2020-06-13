@@ -1,5 +1,5 @@
 # Covid19Speaks
-Hey Folks,
+Hey Folks, <br />
 In this app/we provide you a platform to communicate and reach out to the world. Each voice stands loud and equal here.
 You may post incidents, needs,  confessions, news(with verified facts) or health tips concerned with the ongoing Covid-19 Pandemic. 
 We promise we won't reveal your identity and help amplify your voice.
