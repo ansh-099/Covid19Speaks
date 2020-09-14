@@ -12,18 +12,7 @@ We promise we won't reveal your identity and help amplify your voice.
 
 <br />
 
-Frameworks used:
-
-* [React Native](https://reactnative.dev/docs/getting-started)
-* [Django REST Framework](https://www.django-rest-framework.org/)
-
-<br />
-
-Database:
-* [PostgreSQL](https://www.postgresql.org/docs/)
-<br />
-
-### Run Project :
+### Run Project
 Enter Virtual Environment:
 <br/>
 `source venv/bin/activate`
@@ -62,5 +51,12 @@ Now you're pretty much there, run:
 * You can view/ sort posts according to your requirements i.e. Most Views, Most Liked, Most Recent.
 * You can show you interests, Likes, Dislikes on each post.
 * You can see Views on each post which can give an idea how much people are interested in that particular post.
+
+
+### Frameworks used
+* [React Native](https://reactnative.dev/docs/getting-started)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+### Database
+* [PostgreSQL](https://www.postgresql.org/docs/)
 
 Cheers!
