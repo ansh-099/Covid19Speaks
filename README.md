@@ -59,3 +59,5 @@ Now you're pretty much there, run:
 * You can view/ sort posts according to your requirements i.e. Most Views, Most Liked, Most Recent.
 * You can show you interests, Likes, Dislikes on each post.
 * You can see Views on each post which can give an idea how much people are interested in that particular post.
+
+Cheers!
