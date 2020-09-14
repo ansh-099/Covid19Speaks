@@ -46,13 +46,16 @@ Now you're pretty much there, run:
 <br />
 `expo start`
 
-## Add A Post:
-<br/>
-<img src="https://user-images.githubusercontent.com/35291991/84573708-df9a1f80-adbf-11ea-8707-2b1640f479ed.jpeg" width="200" height="400" />
+## Get in process
 
-## Watch All Posts: 
-<br />
-<img src="https://user-images.githubusercontent.com/35291991/84573715-f0e32c00-adbf-11ea-9641-d6a292003b28.jpeg" width="200" height="400" />
+* Add A Post, and let the world know!
+* Watch All Posts.
+<table>
+        <tr>
+<td><img src = "https://user-images.githubusercontent.com/35291991/84573708-df9a1f80-adbf-11ea-8707-2b1640f479ed.jpeg" height = "460" width="250"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/84573715-f0e32c00-adbf-11ea-9641-d6a292003b28.jpeg" height = "460" width="250"></td>
+        </tr>
+</table> 
 
 ### Functions
 * We Provide you to add post related to covid-19 pandemic situation/ incident etc.
