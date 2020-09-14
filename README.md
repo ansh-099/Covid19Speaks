@@ -14,7 +14,6 @@ Enter Virtual Environment:
 <br/>
 `source venv/bin/activate`
 <br/> <br/>
-
 Run Django Server at localhost:8000:
 <br/>
 `python3 manage.py runserver`
