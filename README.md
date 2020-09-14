@@ -18,9 +18,7 @@ Run Django Server at localhost:8000:
 <br/>
 `python3 manage.py runserver`
 <br /> <br />
-Now the Server is running, 
-<br/>
-Run React Native App:
+Now the Server is running, Run React Native App:
 <br/> <br />
 Install node modules:
 <br />
