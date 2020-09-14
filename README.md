@@ -49,6 +49,8 @@ Now you're pretty much there, run:
 ### Frameworks used
 * [React Native](https://reactnative.dev/docs/getting-started)
 * [Django REST Framework](https://www.django-rest-framework.org/)
+* [React Navigation](https://reactnavigation.org/docs/4.x/getting-started/)
+* [React Native with Hooks](https://reactjs.org/docs/hooks-intro.html)
 ### Database
 * [PostgreSQL](https://www.postgresql.org/docs/)
 
